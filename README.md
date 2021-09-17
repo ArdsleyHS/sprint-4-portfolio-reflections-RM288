@@ -1,5 +1,5 @@
 # AP CSP Sprint 4
-## Creating Graphics & Images Bit by Bit
+## Creating Graphics & Images Bit by Bit 
 
 You will find MD (Markdown) files within this repo (repository) for you to type reflection responses in. All files you are submitting for points must be uploaded to within this repo, or linked where appropriate. Have questions as we go through this Sprint on how you should be handling the work flow? ***ASK ME.***  
 
