@@ -12,6 +12,18 @@
 
 [Replace this with your answer]
 
+### 4. A city's fire department is using simulation software to analyze how a fire in an apartment complex might spread under a number of conditions. Consider the benefits and limitations of using a simulation instead of studying the real thing.
+
+#### a. Name at least one benefit of using simulation for this purpose.
+
+[Replace this with your answer]
+
+#### b. Name at least one limitation of using simulation for this purpose.
+
+[Replace this with your answer]
+
+### 5. Pick a model you use in your everyday life. What details does it capture and what details does it omit?
+
 Link to your Google Doc for the POGIL Activity here: [POGIL Activity](ReplaceWithLink).
 
 > Your POGIL document often contains the same questions as the reflection; however, the reflection questions here should contain your ***refined*** responses after working with your group.

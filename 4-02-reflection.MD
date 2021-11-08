@@ -4,11 +4,7 @@
 
 [Replace this with your answer]
 
-### 2. Consider the apps you've developed so far. Can you list all the different events your apps have responded to? What other events do you think an app can respond to? Explore some of the components in App Inventor and see what event handlers they have.
-
-[Replace this with your answer]
-
-### 3. What are the advantages of writing procedures in programming? Use the procedures you wrote for this app as examples in your response.
+### 2. How do the procedures you wrote for this app help manage the complexity in your program code? Your response should be specific to the procedures you wrote, not procedures in general.
 
 [Replace this with your answer]
 
