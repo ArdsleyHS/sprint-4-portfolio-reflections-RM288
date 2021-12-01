@@ -5,23 +5,23 @@
 ### 1. [Activity Part 1] Earlier in the course, you built the Map Tour app.
 #### a. In the final version, what data, including data type, is collected from the user?
 
-[Replace this with your answer]
+[The Map Tour app is collecting their location data, in the form of signals, as it is being used.]
 
 #### b. Does the user know the data is being collected?
 
-[Replace this with your answer]
+[The user may realize that this data is being collected since a map is shown, but it isn't explicitly stated so they may not realize. ]
 
 #### c. Can they opt out of providing data and still use the app?
 
-[Replace this with your answer]
+[If they opt out of providing this data they most likely will not be able to use this app because of how it is programmed.]
 
 ### 2. [Activity Part 2] How have social media platforms such as Twitter, Instagram, Snapchat, etc. affected our privacy?
 
-[Replace this with your answer]
+[Social media platforms have cost a lot of privacy. Social media platforms are places where people, often accidentally, reveal a lot of personal information about themselves, such as what they like, the general area where they live, etc. The platforms themselves also take a lot of information that they then sell to advertiser companies, further lowering privacy.]
 
 ### 3. [Activity Part 3] Is it possible to identify someone, perhaps a patient, knowing just the gender, birth date, and zip code? Why or why not?
 
-[Replace this with your answer]
+[Depending the exact information, it entirely is possible to idenitfy someone with this information. The amount of peopel that will have that specific information all in conjugation is fairly low, so it wouldn't be too difficult to, if not identify, at least narrow down who someone might be with just this info.]
 
 ### 4. [Activity Part 4] Name the computing innovation you explored. Paste your paragraph from Activity Part 4 here.
 
