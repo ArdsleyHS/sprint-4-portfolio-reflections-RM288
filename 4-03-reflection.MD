@@ -12,6 +12,8 @@
 
 ### 2. For each of the enhancements that you implemented: a) Describe the function of the enhancement. b) Give a brief description of the enhancement. c) Provide screenshots of important blocks and describe how you used them to solve certain programming problems.
 
+![blocks](enhancements.png)
+
 [This enhancement adds a feature that keeps track of misses and adds them to the score. When the person misses the sprite, the app shows that they missed and takes a point of the score. I made it work by using the wehn canvas,touched block and adding an if statement that checks if any sprite was touched. The blocks then adds a point to the misses while taking off a point from the score, and then finally telsl the score to update using a different procedure. ]
 
 ### 3. Describe in general what the reset procedure does.
