@@ -32,12 +32,14 @@ Phones also have a lot of security and data privacy concerns. Phones are always 
 
 ### 5. Is the Privacy Act effective? Explain why or why not.
 
-[Replace this with your answer]
+[The Privacy Act is not effective. The Privacy Act was made a long time ago and was only meant to handle privacy issues in regards to technologies and social expectations of the time. Technology has advanced rapidly since then, and the way people use this technology has also changed signfiicantly from what it used to be. More complex rules about privacy are needed to be effective in the modern day. ]
 
 ### 6. Are you willing to trade some of your privacy for the convenience of having a computer or a company recommend products to you? Why or why not? Under what circumstances?
 
-[Replace this with your answer]
+[I am mostly willing to trade my privacy for covenience. While it is nice to have privacy, and I still do care for it in regards to certain things, when it comes to most things I think that allowing people to have a constant hand in my daily life is an acceptable exchange for having a much better daily life.]
 
 ### 7. How do we leave digital "footprints and fingerprints?" Do you think this is important for everyone to know? Why or why not?
 
-[Replace this with your answer]
+[We leave digital footprint by living, through things like Geotracking or AdSense. We leave them by marking where we go and when, both in the real world and out of it. I think it is important that people understand just how much information is being left behind so they will be able to take care of themselves better.]
+
+[Double Entry Journal](https://docs.google.com/document/d/1rM-2woGRAQeDcWDYwggbSYw1WIQNfAWIaAFJwrN5IOM/edit?usp=sharing)
