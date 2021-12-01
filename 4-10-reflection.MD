@@ -25,7 +25,8 @@
 
 ### 4. [Activity Part 4] Name the computing innovation you explored. Paste your paragraph from Activity Part 4 here.
 
-[Replace this with your answer]
+[Phones take in a lot of data, like texting and browsing habits, what apps you like, where you spend your time, when you're using your phone, and more. Phones can get your sleeping patterns based on when you set the alarm clock and when you put the phone for charge, they can understand what your interests are based on the websites you visit, and so on. The phone can then take this image and give it to other companies to advertise to you. If the phone knows you spend a lot of time at school, it will conclude that you’re a student and show ads for stuff like pencils or colleges. Phones can take data about changes in your sleeping pattern and use it to recommend new pillows or beds.
+Phones also have a lot of security and data privacy concerns. Phones are always on you and contain an incredible amount of information about your daily life and who you are, so unauthorized access to that information can become a serious problem. People often store passwords on phones, or they may have personal text messages, emails, or pictures stored on phones. All of this data is very private and a breach of security could result in the spreading of this information, which makes it very important that phones are strict about security standards and about what information they give out.]
 
 ## Blown to Bits Chapter 2
 
